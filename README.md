@@ -8,7 +8,7 @@
 
 <h4 align="center"></a>
 
->[Shuhai Zhang](), [ZiHao Lian](), [Jiahao Yang](), [Daiyuan Li](), [Guoxuan Pang](), [Feng Liu](), [Bo Han](), [Shutao Li](), [Mingkui Tan]()\
+>[Shuhai Zhang](https://scholar.google.com.hk/citations?user=oNhLYoEAAAAJ), ZiHao Lian, Jiahao Yang, Daiyuan Li, Guoxuan Pang, Feng Liu, Bo Han, Shutao Li, Mingkui Tan\
 <sub>South China University of Technology, Pazhou Laboratory</sub>
 
 <p align="center">
