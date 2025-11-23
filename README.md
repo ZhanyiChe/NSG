@@ -174,6 +174,20 @@ They correspond to the key experiments reported in our **NeurIPS 2025 paper**.
         save_csv_file="${TASK_TYPE}-${GENERATOR}-${BASELINE}.csv"
     ```
 
+## 💡 Practical Recommendations
+
+For real-world applications, we suggest:
+
+1. **Domain-Specific Reference Set**
+Collect 50–100 real videos from the same or closely related domain as your test videos (e.g., surveillance, social media, faces).
+Domain alignment significantly improves detection stability.
+
+2. **Reference Set Size**
+Experiments show that 50–100 real samples already provide stable performance if domain-matched.
+
+3. **Training Data Enhancement**
+If you have extra real videos from similar domains, adding them during training improves generalization.
+
 ## 📖 Citation
 If you find our work useful, please consider citing:
 
